@@ -6,8 +6,8 @@ import com.company.MagicCalculator;
 public class Main {
 
     public static void main(String[] args) {
-        int num1 = 4;
-        int num2 = 2;
+        int num1 = 12;
+        int num2 = 6;
         // calc class
         System.out.println("Adding num1 and num2");
         System.out.println(Calculator.add(num1, num2));
